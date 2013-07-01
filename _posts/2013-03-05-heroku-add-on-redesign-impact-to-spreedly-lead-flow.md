@@ -1,0 +1,11 @@
+---
+layout: post
+title: Heroku Add On redesign: Impact to Spreedly lead flow
+url: http://blog.spreedly.com/2013/03/05/heroku-add-on-redesign-impact-to-spreedly-lead-flow/
+source: http://blog.spreedly.com/2013/03/05/heroku-add-on-redesign-impact-to-spreedly-lead-flow/
+domain: blog.spreedly.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+{% include JB/setup %}<p>Spreedly is a a credit card vault in the cloud that connects to more than 45 payment gateways.Vault your cards with us, significantly reduce PCI compliance headaches via a transparent redirect, and work with one or multiple payment gateways over time or simultaneously.We have also added alternative payment types like Dwolla, GoCardless and of course PayPal.(Read about our recent re-launch here) Heroku’s add on marketplace seemed like a great potential channel for us.Building an app on Heroku and want to accept payments?</p>
+<center><p><a href="http://blog.spreedly.com/2013/03/05/heroku-add-on-redesign-impact-to-spreedly-lead-flow/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

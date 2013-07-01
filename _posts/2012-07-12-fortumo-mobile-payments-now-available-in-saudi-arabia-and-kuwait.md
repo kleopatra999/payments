@@ -1,0 +1,11 @@
+---
+layout: post
+title: Fortumo Mobile Payments Now Available in Saudi Arabia and Kuwait
+url: http://blog.fortumo.com/fortumo-mobile-payments-now-available-in-saudi-arabia-and-kuwait/
+source: http://blog.fortumo.com/fortumo-mobile-payments-now-available-in-saudi-arabia-and-kuwait/
+domain: blog.fortumo.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+{% include JB/setup %}<p>Summer holidays are at their peak but this doesn’t stop good news and hard work.In July we added two countries from MENA region - Saudi Arabia and Kuwait.Saudi Arabia is a leading mobile market.With an estimated population of 27 million, mobile subscribers have passed 56.1 million, making mobile penetration rate as high as 200%.</p>
+<center><p><a href="http://blog.fortumo.com/fortumo-mobile-payments-now-available-in-saudi-arabia-and-kuwait/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

@@ -1,0 +1,11 @@
+---
+layout: post
+title: Marketplace On boarding
+url: http://blog.spreedly.com/2013/01/15/marketplace-on-boarding/
+source: http://blog.spreedly.com/2013/01/15/marketplace-on-boarding/
+domain: blog.spreedly.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+{% include JB/setup %}<p>In Justin’s post Marketplaces and Payments, he mentioned that “marketplaces are going mainstream and payment solutions are following to accommodate their needs.” “Marketplace” is a fairly broad term.In general, when you build a marketplace you expect transactions to occur between buyers and sellers within your service.Due to the difficulty of getting a merchant account, accepting payments has not been an option for many participants in a marketplace.Marketplace owners have had to hold and disburse funds, which is complicated.</p>
+<center><p><a href="http://blog.spreedly.com/2013/01/15/marketplace-on-boarding/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
