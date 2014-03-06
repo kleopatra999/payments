@@ -1,12 +1,0 @@
----
-layout: post
-title: Now Live: The Integration Portal
-url: http://blog.dwolla.com/now-live-the-integration-portal-a-decision-tree-for-understanding-dwolla/
-source: http://blog.dwolla.com/now-live-the-integration-portal-a-decision-tree-for-understanding-dwolla/
-domain: blog.dwolla.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-
-<p>First things first, if you’re a developer, I highly suggest you check out this dev blog post on http://dev.dwolla.com/.This post is meant to be more of an introduction of sorts for all of our non-technical business development, product and design friends looking to learn if a Dwolla integration is right for their company, app or project.One of the most beautiful and powerful things about Dwolla is its web-driven and open structure, or its ability to play nicely with a host of other Internet technologies.</p>
-<center><p><a href="http://blog.dwolla.com/now-live-the-integration-portal-a-decision-tree-for-understanding-dwolla/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

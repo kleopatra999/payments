@@ -1,12 +1,0 @@
----
-layout: post
-title: Flattr buttons on a LiveJournal blog – yes you can
-url: http://blog.flattr.net/2012/06/flattr-buttons-on-a-livejournal-blog-yes-you-can/
-source: http://blog.flattr.net/2012/06/flattr-buttons-on-a-livejournal-blog-yes-you-can/
-domain: blog.flattr.net
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-
-<p>Today I got a question from a new user Jane asking if it’s possible to put Flattr buttons on her LiveJournal blog.Yes, absolutely!Here’s how… Since it’s not possible to edit the underlying HTML of your LiveJournal blog you can’t use our dynamic Flattr buttons that show the flattr count.The only option is the static “Flattr this!” button.</p>
-<center><p><a href="http://blog.flattr.net/2012/06/flattr-buttons-on-a-livejournal-blog-yes-you-can/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

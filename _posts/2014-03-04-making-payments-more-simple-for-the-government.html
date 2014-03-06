@@ -1,12 +1,0 @@
----
-layout: post
-title: Making payments more simple for the Government
-url: http://blog.dwolla.com/making-payments-more-simple-for-the-government/
-source: http://blog.dwolla.com/making-payments-more-simple-for-the-government/
-domain: blog.dwolla.com
-image: 
----
-
-<p>We know that’s not how software for the government, or anyone, should work.At Dwolla, we’re fortunate to have had parts of the Iowa government embrace and help us build better software for government clients, as an innovation partner.Governments want simple software just like consumers do, and we’re happy to start opening up to more government clients.Starting today, governments can go through a ~5 minute setup process that has them up and running with a fully compliant solution and no upfront cost.Something of a dream come true for government clients.</p>
-<center><p><a href="http://blog.dwolla.com/making-payments-more-simple-for-the-government/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

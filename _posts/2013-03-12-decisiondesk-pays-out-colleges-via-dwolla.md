@@ -1,12 +1,0 @@
----
-layout: post
-title: DecisionDesk pays out colleges via Dwolla
-url: http://blog.dwolla.com/decisiondesk-pays-out-colleges-via-dwolla/
-source: http://blog.dwolla.com/decisiondesk-pays-out-colleges-via-dwolla/
-domain: blog.dwolla.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-
-<p>This is part of a series called “Integration Highlights.” In this series, we highlight entrepreneurs and projects that use Dwolla to create new experiences, ideas and possibilities.You can find this story and others on Dwolla’s Pinterest board.Enjoy!DecisionDesk helps colleges improve the complex application review process by allowing prospective students to add photos and videos to their applications.</p>
-<center><p><a href="http://blog.dwolla.com/decisiondesk-pays-out-colleges-via-dwolla/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

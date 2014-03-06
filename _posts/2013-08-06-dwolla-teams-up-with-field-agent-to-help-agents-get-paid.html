@@ -1,12 +1,0 @@
----
-layout: post
-title: Dwolla teams up with Field Agent to help agents get paid
-url: http://blog.dwolla.com/dwolla-teams-up-with-field-agent-to-help-agents-get-paid/
-source: http://blog.dwolla.com/dwolla-teams-up-with-field-agent-to-help-agents-get-paid/
-domain: blog.dwolla.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/blog-dwolla-comdwolla-teams-up-with-field-agent-to-help-agents-get-paid.png
----
-
-<p>We’re proud to announce that we’ve partnered with Field Agent, an awesome company coming out of the Arkansas Startup scene that relies on smart technology and data to provide thousands of people around the world with micro-jobs.Dwolla is now a supported payment option for those agents to receive the money that they earn through the platform.Field Agent was built to acquire business information from shoppers (agents) around the world.These agents become the eyes and ears for analysts, businesses and researchers who can use the platform to collect detailed reports on specific products and brands.Agents sign up by downloading the free iPhone app and filling out a detailed personal profile.</p>
-<center><p><a href="http://blog.dwolla.com/dwolla-teams-up-with-field-agent-to-help-agents-get-paid/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

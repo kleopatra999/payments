@@ -1,12 +1,0 @@
----
-layout: post
-title: Apple Doubles Down on Notification Center
-url: http://urbanairship.com/blog/2012/06/11/apple-doubles-down-on-notification-center/
-source: http://urbanairship.com/blog/2012/06/11/apple-doubles-down-on-notification-center/
-domain: urbanairship.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-
-<p>While there were many bright and shiny enhancements unveiled in Apple’s 2012 WWDC keynote, updates to iCloud and Notification Center really tied it all together across mobile devices to the desktop.According to Apple, since it introduced Notification Center, 81% of apps are now using it, with 84 of the top 100 social apps using push notification.It’s clear that push messaging is continuing to become more important and more useful.The Notification Center in iOS 6 and OS X Mountain Lion includes integration with Twitter and Facebook so you can receive mentions and messages as alerts, as well as write or dictate tweets and status updates directly from within it.You can also designate certain people as VIPs to receive push messages alerting you to their emails.</p>
-<center><p><a href="http://urbanairship.com/blog/2012/06/11/apple-doubles-down-on-notification-center/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -1,12 +1,0 @@
----
-layout: post
-title: Braintree adds Venmo Payouts API with focus on merchants 
-url: http://www.zdnet.com/braintree-adds-venmo-payouts-api-with-focus-on-merchants-7000012767/
-source: http://www.zdnet.com/braintree-adds-venmo-payouts-api-with-focus-on-merchants-7000012767/
-domain: www.zdnet.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7083_www_zdnet_com.png
----
-
-<p>Many of Braintrees mobile payments tools have been designed to enable developers to provide a seamless experience for consumers, but its latest introduction has merchants in mind.The Chicago-based company is introducing Venmo Payouts, an API that should enable merchants to make immediate, automatic payments to service providers.Heres how it works.Braintree customers will be able to pay their service providers from any bank account to a Venmo user, U.S.</p>
-<center><p><a href="http://www.zdnet.com/braintree-adds-venmo-payouts-api-with-focus-on-merchants-7000012767/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

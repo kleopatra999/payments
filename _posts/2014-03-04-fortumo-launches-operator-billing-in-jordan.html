@@ -1,12 +1,0 @@
----
-layout: post
-title: Fortumo Launches Operator Billing in Jordan
-url: http://blog.fortumo.com/fortumo-launches-operator-billing-in-jordan/
-source: http://blog.fortumo.com/fortumo-launches-operator-billing-in-jordan/
-domain: blog.fortumo.com
-image: 
----
-
-<p>Today Fortumo is launching its next country in the Middle-East: operator billing is now available to 6 million mobile phone owners in Jordan.Our coverage in the country is 100% with all three mobile operators (Orange, Umniah and Zain) supported.Jordan has one of the youngest populations in the world (median age 21.8 years) and already half of the phones in the country are smartphones.Due to this reason, we expect Jordan to bring a higher than average revenue to merchants switching on operator billing in the country.</p>
-<center><p><a href="http://blog.fortumo.com/fortumo-launches-operator-billing-in-jordan/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -1,12 +1,0 @@
----
-layout: post
-title: Fortumo Expands in Central America
-url: http://blog.fortumo.com/fortumo-expands-in-central-america/
-source: http://blog.fortumo.com/fortumo-expands-in-central-america/
-domain: blog.fortumo.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-
-<p>Costa Rica ranks first in many respects: not only has it been entitled the world’s greenest and happiest country according to the Happy Planet Index, but it also has the region’s most advanced telecom market.Mobile penetration is over 101% with a total of 4.4 mln mobile service susbcribers.The state telecom ICE holds 93% of the market. According to a recent study, 35% of mobile phone users have access to mobile Internet and their number is growing rapidly due to the introduction of attractive flat rate high-speed Internet plans.</p>
-<center><p><a href="http://blog.fortumo.com/fortumo-expands-in-central-america/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

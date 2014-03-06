@@ -1,12 +1,0 @@
----
-layout: post
-title: Key moment for payments industry
-url: http://www.xero.com/blog/2013/06/key-moment-for-payments-industry/
-source: http://www.xero.com/blog/2013/06/key-moment-for-payments-industry/
-domain: www.xero.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/www-xero-comblog201306key-moment-for-payments-industry.png
----
-
-<p>I’ve been advocating lately for faster adoption of Contactless payments.It seems so much more convenient to tap or wave rather than entering in a PIN. Contactless payments can be delightful and  contribute to creating a ‘digital advanced’ brand for cities when widely adopted.In New Zealand, with a relatively small number of banks, we have an outstanding electronic payment system known as EFTPOS or Electronic Funds Transfer at Point of Sale.The great thing about EFTPOS is it is bank to bank.</p>
-<center><p><a href="http://www.xero.com/blog/2013/06/key-moment-for-payments-industry/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

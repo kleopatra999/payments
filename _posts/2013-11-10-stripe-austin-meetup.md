@@ -1,12 +1,0 @@
----
-layout: post
-title: Stripe Austin Meetup
-url: https://stripe.com/blog/stripe-austin-meetup
-source: https://stripe.com/blog/stripe-austin-meetup
-domain: stripe.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/stripe-comblogstripe-austin-meetup.png
----
-
-<p>Come hang out with Alex, Cristina, Dave, Heather, Orla, and Thairu at The Ginger Man in Austin on Thursday night.Wed love to meet you all and buy you a beer!When: Thursday, November 14th, 2013, at 7:30 PM</p>
-<center><p><a href="https://stripe.com/blog/stripe-austin-meetup" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

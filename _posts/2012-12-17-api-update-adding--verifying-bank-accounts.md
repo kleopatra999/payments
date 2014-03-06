@@ -1,12 +1,0 @@
----
-layout: post
-title: [API Update] Adding + Verifying Bank Accounts
-url: http://blog.dwolla.com/api-update-adding-verifying-bank-accounts/
-source: http://blog.dwolla.com/api-update-adding-verifying-bank-accounts/
-domain: blog.dwolla.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-
-<p>Today, we’ve released what has probably been the most requested API feature to date – the ability to Add and Verify bank accounts programmatically.These updates are particularly important.The reason behind this is that we realize the friction involved in non-Dwolla user checkouts.Ideally, we would like to give developers the ability to programmatically (using our API) create fully working, verified Dwolla accounts – thus, reduce the friction of account creating and payment to a minimum.So, without further adieu – here’s the documentation for the new calls:</p>
-<center><p><a href="http://blog.dwolla.com/api-update-adding-verifying-bank-accounts/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

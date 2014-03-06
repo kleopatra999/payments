@@ -1,12 +1,0 @@
----
-layout: post
-title: Payments as a Platform
-url: http://blog.spreedly.com/2013/07/29/payments-as-a-platform/
-source: http://blog.spreedly.com/2013/07/29/payments-as-a-platform/
-domain: blog.spreedly.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/blog-spreedly-com20130729payments-as-a-platform.png
----
-
-<p>It’s been a busy 100 + days at Spreedly.Around March 1st we switched from emphasizing our subscriptions offering to focusing on Spreedly (Core).In May we successfully raised a seed round via AngelList.In July we announced the sale of our subscriptions business to Pin Payments.There’s one recurring theme at Spreedly we find fascinating.</p>
-<center><p><a href="http://blog.spreedly.com/2013/07/29/payments-as-a-platform/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

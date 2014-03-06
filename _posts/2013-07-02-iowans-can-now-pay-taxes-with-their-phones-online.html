@@ -1,12 +1,0 @@
----
-layout: post
-title: Iowans Can Now Pay Taxes With Their Phones Online
-url: http://blog.dwolla.com/iowans-can-now-pay-taxes-with-their-phones-online/
-source: http://blog.dwolla.com/iowans-can-now-pay-taxes-with-their-phones-online/
-domain: blog.dwolla.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/blog-dwolla-comiowans-can-now-pay-taxes-with-their-phones-online.png
----
-
-<p>Iowa continues to be a standout example of innovation in government, adopting new technologies to inject money back into the economy by making their processes faster and more cost-effective for citizens.Earlier this year, we proudly announced our government payments partnership with the state of Iowa, assisting retailers in paying a potential $130 million in certain retail taxes.Starting later today, we’re thrilled to announce our partnership with IowaTaxAndTags.org.Together, we’ll help them process up to 1.</p>
-<center><p><a href="http://blog.dwolla.com/iowans-can-now-pay-taxes-with-their-phones-online/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -1,12 +1,0 @@
----
-layout: post
-title: Invoicera Integrates With Stripe For Instant Payments
-url: http://www.invoicera.com/blog/integration-2/invoicera-integrates-with-stripe-for-instant-payments
-source: http://www.invoicera.com/blog/integration-2/invoicera-integrates-with-stripe-for-instant-payments
-domain: www.invoicera.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/www-invoicera-comblogintegration-2invoicera-integrates-with-stripe-for-instant-payments.png
----
-
-<p>Invoicera is proud to announce its technical integration with Stripe, an online payment processing option that doesn’t demand a gateway or merchant account to receive payments.This is yet another step taken towards simplifying billing and invoicing as Stripe makes it simple to accept credit cards online.This integration will sound sweet to all those Invoicera users that specifically requested to add Stripe with Invoicera.This promising relationship with Stripe not only eases up money transaction over the Internet, but will be a top-stake proposition in saving great amount of time for Invoicera users.This inclusion takes us one step forward and now the total number of payment options count 22.</p>
-<center><p><a href="http://www.invoicera.com/blog/integration-2/invoicera-integrates-with-stripe-for-instant-payments" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

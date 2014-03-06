@@ -1,12 +1,0 @@
----
-layout: post
-title: Introducing Stripe UK
-url: https://stripe.com/blog/introducing-stripe-uk
-source: https://stripe.com/blog/introducing-stripe-uk
-domain: stripe.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/stripe-comblogintroducing-stripe-uk.png
----
-
-<p>We’ve worked hard not to compromise with this expansion.UK users get the same instant activation that we provide in the US and Canada.We support all major card types, including American Express.You retain complete control over your payment experience.And, as ever, it’s all covered by simple, flat pricing.</p>
-<center><p><a href="https://stripe.com/blog/introducing-stripe-uk" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -1,12 +1,0 @@
----
-layout: post
-title: Mozilla Moves Ahead With Its Plans For A Common Web API For Payments
-url: http://techcrunch.com/2013/04/04/mozilla-moves-ahead-with-its-plans-for-a-common-web-api-for-payments/
-source: http://techcrunch.com/2013/04/04/mozilla-moves-ahead-with-its-plans-for-a-common-web-api-for-payments/
-domain: techcrunch.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7262_feedproxy_google_com.png
----
-
-<p>Mozilla is working with payment vendors and the W3C standards body to create a common API to make online payments, both on desktop and mobile, easier and more secure.To get this process going, Mozilla has implemented a new and experimental JavaScript API into its new Firefox OS for smartphones that will eventually allow web apps to accept payments.Mozilla argues that having a common API for handling payments that can be integrated with multiple payment vendors will open up new business models for developers and publishers.This new API, navigator.mozPay(), Mozilla says, was inspired by Google’s Wallet for Digital Goods API and will ship in Firefox OS first and then be added to Firefox for Android and desktop Firefox later.</p>
-<center><p><a href="http://techcrunch.com/2013/04/04/mozilla-moves-ahead-with-its-plans-for-a-common-web-api-for-payments/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

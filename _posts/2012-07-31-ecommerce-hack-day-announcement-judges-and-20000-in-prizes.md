@@ -1,12 +1,0 @@
----
-layout: post
-title: eCommerce Hack Day Announcement: Judges and +20000 in Prizes
-url: http://blog.dwolla.com/ecommerce-hack-day-judges-and-prizes-announced/
-source: http://blog.dwolla.com/ecommerce-hack-day-judges-and-prizes-announced/
-domain: blog.dwolla.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-
-<p>We’re 5 days out from the eCommerce Hack Day, a 36-hour blitzkrieg on the industry as we know it.A quick rundown: Only 30% of developer applicants solved the puzzle The average time to solve the challenge, was 260 seconds (out of the allowed 600); Fastest time, 61 seconds We reached our Developer and Designer RSVP goal in the first 5 hours Sunday’s demo tickets are completely sold-out Industry came out big time: All sponsorship spots were filled almost immediately Bottom line: We’re packing the Alley this weekend with the hungriest programmers to build bad ass hacks for some of the craziest prizes.First-place overall: $6,000 Second-place overall: $2,500 Third-place overall: $1,500 API Prizes *Stay tuned to our prizes page for more details and prizes.Google’s Nexus 7 for the best use of API (Constant Contact dev site) Up to four personalized Ouyas (one per person) for the coolest Dwolla integration (Dwolla dev site) $5,000 Journey to the Edge of the World (Terapeak Research API) $400 for “Most scrumtrulescent use of the Etsy API” (Etsy dev site) GoPro Camera and $200 service credits to Iron.io for best use of Iron Workers 3 messenger bags and $200 service credits to Iron.</p>
-<center><p><a href="http://blog.dwolla.com/ecommerce-hack-day-judges-and-prizes-announced/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

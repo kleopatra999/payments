@@ -1,12 +1,0 @@
----
-layout: post
-title: News: Updated Payout Info Fields for Developers
-url: http://devot-ee.com/news/item/updated-payout-info-fields-for-developers
-source: http://devot-ee.com/news/item/updated-payout-info-fields-for-developers
-domain: devot-ee.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/devot-ee-comnewsitemupdated-payout-info-fields-for-developers.png
----
-
-<p>Weve added a few new fields asking for clearer details regarding payout information.All developers should review these fields and fill them in for us so we can make sure payouts are going to the right place and the right person.Nothing has changed if youre taking your payouts via PayPal, but please review your information anyway, to make sure what we have on file is up-to-date.Developers, go to edit your profile (top link on the right of your main member account page) and look at the Commercial Add-on Sales section.The new fields are based on the selection made in the Preferred Payment Method dropdown field.</p>
-<center><p><a href="http://devot-ee.com/news/item/updated-payout-info-fields-for-developers" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

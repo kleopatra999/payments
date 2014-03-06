@@ -1,12 +1,0 @@
----
-layout: post
-title: Open Sourcing Stripe Shop
-url: https://stripe.com/blog/open-sourcing-stripe-shop
-source: https://stripe.com/blog/open-sourcing-stripe-shop
-domain: stripe.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/stripe-comblogopen-sourcing-stripe-shop.png
----
-
-<p>When we launched Stripe Shop, a lot of people asked us to open-source it so they could build their own single-page stores.Weve just released the code on Github; please feel free to borrow any parts you find useful!(We didnt want to open-source the photo of Kat and Thairu, so we decided to take a replacement.)</p>
-<center><p><a href="https://stripe.com/blog/open-sourcing-stripe-shop" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
