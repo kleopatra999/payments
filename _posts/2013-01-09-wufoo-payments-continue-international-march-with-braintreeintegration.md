@@ -1,0 +1,12 @@
+---
+layout: post
+title: Wufoo Payments Continue International March with Braintree Integration
+url: http://www.wufoo.com/2013/01/09/wufoo-payments-continues-international-march-with-braintree-integration/
+source: http://www.wufoo.com/2013/01/09/wufoo-payments-continues-international-march-with-braintree-integration/
+domain: www.wufoo.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/5463_www_wufoo_com.png
+---
+
+<p>Hey there, hi there, ho there folks!We’re already into the second week of the brand spanking New Year, can you believe it?In keeping with the spirit of all things shiny and fresh, we’re super stoked to bring you the latest scoop in Wufoo payment integrations.We’ve partnered with the amazing (and brainy) folks over at Braintree, who are providing elegant and hassle-free online payment solutions.Great design and painless implementation?</p>
+<center><p><a href="http://www.wufoo.com/2013/01/09/wufoo-payments-continues-international-march-with-braintree-integration/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

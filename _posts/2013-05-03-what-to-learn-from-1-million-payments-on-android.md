@@ -1,0 +1,12 @@
+---
+layout: post
+title: What To Learn From 1 Million Payments On Android
+url: http://blog.fortumo.com/what-to-learn-from-1-million-payments-on-android/
+source: http://blog.fortumo.com/what-to-learn-from-1-million-payments-on-android/
+domain: blog.fortumo.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/8300_blog_fortumo_com.png
+---
+
+<p>Fortumo processes hundreds of thousands of payments each day.In order to help developers using Fortumo maximize their revenue, we recently extracted one million payments conducted on Android randomly from our database.Some of the more interesting findings from this data is presented on the infographic to the right – click on it to see a full version.As the infographic does not tell the full story, here are the key takeaways to consider when planning for payments on Android: Android OS is fragmented: 27.7% of users make payments on Android Gingerbread (2.</p>
+<center><p><a href="http://blog.fortumo.com/what-to-learn-from-1-million-payments-on-android/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

@@ -1,0 +1,12 @@
+---
+layout: post
+title: Samsung Announces Android Wallet with Open API
+url: http://blog.startapp.com/samsung-announces-android-wallet-with-open-api/
+source: http://blog.startapp.com/samsung-announces-android-wallet-with-open-api/
+domain: blog.startapp.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+
+<p>Posted on February 27th, 2013 by Matthew Today, Samsung announced at the Mobile World Congress that they are releasing Wallet, an Android ticketing and coupon app to compete directly with Apple’s Passbook. Users will be able to store things like concert tickets, coupons, membership cards and boarding passes in one centralized application.Location based services will also be enabled, sending push notifications to alert users when they are nearby where their stored passes could be used. Imagine walking down the street and being notified that your favorite restaurant nearby is having a special for card members at that moment.Retailers and service providers can simply scan the barcode screen of the device for users to redeem their services.</p>
+<center><p><a href="http://blog.startapp.com/samsung-announces-android-wallet-with-open-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

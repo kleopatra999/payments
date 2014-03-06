@@ -1,0 +1,12 @@
+---
+layout: post
+title: Introducing Dwolla Storefront
+url: http://blog.dwolla.com/introducing-dwolla-storefront/
+source: http://blog.dwolla.com/introducing-dwolla-storefront/
+domain: blog.dwolla.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/blog-dwolla-comintroducing-dwolla-storefront.png
+---
+
+<p>Last week, we launched Dwolla Credit.Consumers in the Dwolla network will now be able to make real-time payments without having to previously load their Dwolla accounts. No credit card scavenger hunt required.(pro-tip: Get early access).With the announcement of Dwolla Credit, we introduced 40+ online merchants, ranging from gaming and e-commerce sites, to marketplaces and services.</p>
+<center><p><a href="http://blog.dwolla.com/introducing-dwolla-storefront/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
