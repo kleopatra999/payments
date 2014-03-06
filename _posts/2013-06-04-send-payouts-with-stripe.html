@@ -1,0 +1,12 @@
+---
+layout: post
+title: Send payouts with Stripe
+url: https://stripe.com/blog/send-payouts-with-stripe
+source: https://stripe.com/blog/send-payouts-with-stripe
+domain: stripe.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9595_stripe_com.png
+---
+
+<p>You can now use Stripe to programmatically send bank transfers to anyone with a US bank account.This makes it easier to build businesses like Lyft or Exec that involve sending many payments to others.You can use the API to transfer money to vendors, service providers, sellers, or anyone else you need to pay as part of your business.To use it, charge your customers as you normally would.Once you’ve enabled transfers, you’ll be able to pay out to any number of accounts instead of having the funds automatically deposited in your main bank account.</p>
+<center><p><a href="https://stripe.com/blog/send-payouts-with-stripe" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

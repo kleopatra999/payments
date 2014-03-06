@@ -1,0 +1,12 @@
+---
+layout: post
+title: New Partnership: Learn to Dwolla with Codecademy
+url: http://blog.dwolla.com/learn-with-codecademy/
+source: http://blog.dwolla.com/learn-with-codecademy/
+domain: blog.dwolla.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+
+<p>Developers are the 21st-century carpenters…or so they say.It’s been argued many times before that the best thing a person can do right now is learn how to code.Coding can be applied to almost any field and industry, any job and any position.Well, good news.The folks over at Codecademy took it upon themselves to make sure learning how to code is easier than ever.</p>
+<center><p><a href="http://blog.dwolla.com/learn-with-codecademy/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

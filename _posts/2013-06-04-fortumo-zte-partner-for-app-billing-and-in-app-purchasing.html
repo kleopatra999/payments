@@ -1,0 +1,12 @@
+---
+layout: post
+title: Fortumo ZTE Partner For App Billing And In App Purchasing
+url: http://blog.fortumo.com/fortumo-zte-partner-for-app-billing-and-in-app-purchasing/
+source: http://blog.fortumo.com/fortumo-zte-partner-for-app-billing-and-in-app-purchasing/
+domain: blog.fortumo.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9508_blog_fortumo_com.png
+---
+
+<p>Today we are announcing partnership with ZTE (through its subsidiary ZTE Joygor), one of the largest phone manufacturers in the world.Thanks to the deal, Fortumo will now be able to to provide its top partners the possibility to have their games/apps preloaded directly onto millions of phones while giving developers capability to monetize their content through app billing and in-app purchasing in 80 countries.Phone preload spots are among the most valued properties in the app and phone ecosystems as there are many end-users, especially in emerging countries, that may not have access to a data connection to download applications themselves or may not know how to use the app stores.Through the partnership, top developers will be able to ship their applications to and collect payments from major emerging regions such as Latin-America and South-East Asia, where mobile penetration can be up to ten times higher than credit card ownership.In addition to providing app preloads to ZTE phones, ZTE will also integrate Fortumo carrier billing into their own app store that features thousands of apps from  developers globally.</p>
+<center><p><a href="http://blog.fortumo.com/fortumo-zte-partner-for-app-billing-and-in-app-purchasing/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

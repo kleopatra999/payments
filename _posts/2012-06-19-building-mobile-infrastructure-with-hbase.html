@@ -1,0 +1,12 @@
+---
+layout: post
+title: Building Mobile Infrastructure with HBase
+url: http://urbanairship.com/blog/2012/06/19/building-mobile-infrastructure-with-hbase/
+source: http://urbanairship.com/blog/2012/06/19/building-mobile-infrastructure-with-hbase/
+domain: urbanairship.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+
+<p>Recently, I had the opportunity to speak at HBase Con 2012 about Urban Airship’s experience deploying a high write environment in HBase, including mistakes to avoid, and tips and open source utilities you can use to diagnose and debug performance bottlenecks.The performance demands of mobile infrastructure are similar to any large web site with the added complexities of serving multiple different mobile OSes, maintaining open connections to hundreds of millions of devices and a frontend API that sustains thousands of requests per second.But with mobile, if your system is slow or inefficient, you waste end users’ battery life.We needed a really big distributed database cluster that wouldn’t fall over with the load we were getting, including tremendous spikes like Christmas where traffic increases 600% overnight.And, like others in the industry, after trial-and-error, we have found that HBase offers operational ease and a low latency, high throughput system with known scalability characteristics.</p>
+<center><p><a href="http://urbanairship.com/blog/2012/06/19/building-mobile-infrastructure-with-hbase/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

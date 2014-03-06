@@ -1,0 +1,12 @@
+---
+layout: post
+title: WunWun is creating an on demand ecosystem
+url: http://blog.dwolla.com/wunwun-is-creating-an-on-demand-ecosystem/
+source: http://blog.dwolla.com/wunwun-is-creating-an-on-demand-ecosystem/
+domain: blog.dwolla.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+
+<p>This is part of a series called “Integration Highlights.” In this series, we highlight entrepreneurs and projects that use Dwolla to create new experiences, ideas and possibilities.You can find this story and others on Dwolla’s Pinterest board.Enjoy!WunWun didn’t set out to disrupt the messenger industry, but that’s exactly what they’re doing.</p>
+<center><p><a href="http://blog.dwolla.com/wunwun-is-creating-an-on-demand-ecosystem/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
