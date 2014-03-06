@@ -1,0 +1,12 @@
+---
+layout: post
+title: Sunsetting Old APIs
+url: http://blog.dwolla.com/sunsetting-old-apis/
+source: http://blog.dwolla.com/sunsetting-old-apis/
+domain: blog.dwolla.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7895_blog_dwolla_com.png
+---
+
+<p>We’ve been hard at work developing our API and keeping our servers as fast, secure, and efficient as possible.While this job usually includes the development and additions of new APIs, at times this will include the deprecation of older API sets as well.As such, we have decided to sunset our old REST “AccountAPI” and are recommending anyone not using our current API version to switch.In order to give you some time to adjust to our new REST API set, we’ll be keeping the “AccountAPI” alive for another 30 days and will be fully deprecating these calls on May 31st, 2013.We’ll also be holding developer office hours, every Thursday at 6pm EST starting today, to help anyone that has questions about switching.</p>
+<center><p><a href="http://blog.dwolla.com/sunsetting-old-apis/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

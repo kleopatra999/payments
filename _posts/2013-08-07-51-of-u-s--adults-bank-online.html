@@ -1,0 +1,12 @@
+---
+layout: post
+title: 51 of U S  Adults Bank Online
+url: http://www.pewinternet.org/2013/08/07/51-of-u-s-adults-bank-online/
+source: http://www.pewinternet.org/2013/08/07/51-of-u-s-adults-bank-online/
+domain: www.pewinternet.org
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/www-pewinternet-orgreports2013online-banking-aspx.png
+---
+
+<p>Fifty-one percent of U.S.adults, or 61% of internet users, bank online.Thirty-two percent of U.S.</p>
+<center><p><a href="http://www.pewinternet.org/2013/08/07/51-of-u-s-adults-bank-online/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

@@ -1,0 +1,12 @@
+---
+layout: post
+title: Finextra: MasterCard unveils digital wallet and open API
+url: http://www.finextra.com/About/404.aspx
+source: http://www.finextra.com/About/404.aspx
+domain: www.finextra.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+
+<p>MasterCard has unveiled a digital wallet enabling users to make purchases in-store, online and through their mobile phones.The card giants PayPass Wallet Services will let customers make contactless payments through cards and mobile phones in stores with NFC terminals.In addition, online shoppers will be able to store their details in the wallet and then make purchases with a single click.The wallet is open, with banks, merchants and other partners able to white label their own efforts while consumers will be allowed to pay with American Express, Discover, Visa cards as well as MasterCard ones.Meanwhile, an API lets partners connect their own digital wallets into the PayPass Acceptance Network, tapping MasterCards check-out, fraud detection and authentication services and enabling their customers to make purchases wherever PayPass is accepted - online and in store.</p>
+<center><p><a href="http://www.finextra.com/About/404.aspx" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

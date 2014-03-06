@@ -1,0 +1,12 @@
+---
+layout: post
+title: Wufoo Now Supports All Global Stripe Users
+url: http://www.wufoo.com/2014/01/28/wufoo-supports-stripe-global/
+source: http://www.wufoo.com/2014/01/28/wufoo-supports-stripe-global/
+domain: www.wufoo.com
+image: 
+---
+
+<p>As I’m sure you’re aware by now, Wufoo hearts Stripe (omg get a room you two).So we’re really stoked to announce that we’ve expanded our Stripe integration to support all global Stripe users.You can now use Wufoo forms to accept online payments via Stripe if you’re located in the United Kingdom, Ireland, Australia, and more.Heck, any country that Stripe supports, Wufoo now supports.Here’s a list of countries supported by Stripe.</p>
+<center><p><a href="http://www.wufoo.com/2014/01/28/wufoo-supports-stripe-global/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

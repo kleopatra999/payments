@@ -1,0 +1,12 @@
+---
+layout: post
+title: Launching new Flattr – Add money to your likes
+url: http://blog.flattr.net/2013/03/launching-new-flattr-add-money-to-your-likes/
+source: http://blog.flattr.net/2013/03/launching-new-flattr-add-money-to-your-likes/
+domain: blog.flattr.net
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/6954_blog_flattr_net.png
+---
+
+<p>We’ve made it easier than ever to support creators. Now you can give and receive microdonations directly on services you use. Connect your Flattr account to Twitter, Instagram, Soundcloud, Github etc and just “favorite”, “like” or “star” to flattr content you appreciate.Everyday creators post 400 million tweets to Twitter and upload 5 million photos to Instagram.For most of us the internet is our most important source for information and creative work.</p>
+<center><p><a href="http://blog.flattr.net/2013/03/launching-new-flattr-add-money-to-your-likes/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

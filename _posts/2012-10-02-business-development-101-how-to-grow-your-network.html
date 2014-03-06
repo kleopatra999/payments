@@ -1,0 +1,12 @@
+---
+layout: post
+title: Business development 101: How to grow your network
+url: http://blog.dwolla.com/business-development-101-how-to-grow-your-network/
+source: http://blog.dwolla.com/business-development-101-how-to-grow-your-network/
+domain: blog.dwolla.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+
+<p>This post was written by our very own business development lead, Alex Taub.Alex is a rock star in the New York tech scene, having established himself early on in the community by working business development at Aviary, securing a blogging position with Forbes.com after being noticed from his personal blog Alex’s Tech Thoughts, and regularly teaching business development classes on Skillshare.  There is a saying in the business world, “You’re only as good as your network.” Your network might be one of the most important things when working in business development and partnerships for a startup company (and non-startups alike).</p>
+<center><p><a href="http://blog.dwolla.com/business-development-101-how-to-grow-your-network/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
