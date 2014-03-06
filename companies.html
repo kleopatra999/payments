@@ -4,18 +4,26 @@ title: Payment APIs
 ---
 <!-- Begin List API Design companies--->
 {% raw  %}
-<script id="companyListingTemplate" type="text/template">       
-    <li style="list-style: none; padding: 30px; border: 0px solid #000;">
-        <a href="companies-detail.html?id={{id}}"><img src="{{logo}}" width="200" align="left" style="padding: 15px;" /></a>
-        <a href="companies-detail.html?id={{id}}" style="color: #000;"><strong>{{name}}</strong></a> - {{details}}... <a href="companies-detail.html?id={{id}}">details</a>.
-    </li>                                                                                               
+<script id="companyListingTemplate" type="text/template">         
+    <tr>
+        <td width="250" align="center" valign="top">
+            <p align="center"><a href="companies-detail.html?id={{id}}" target="_blank"><img src="{{logo}}" width="150" style="padding: 15px;" /></a></p>
+        </td>
+        <td align="left">
+            <p><a href="companies-detail.html?id={{id}}" style="color: #000; font-size: 24px; text-decoration: none;" target="_blank"><strong>{{name}}</strong></a>
+            <p>{{details}}</p> 
+        </td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2"><hr style="border: 1px solid #000; width:100%; text-align:center;" /></td>
+    </tr>                                                                                                  
 </script>
 {% endraw %}
 
 <p><a id="jsonlink" href="data/companies.json" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-json-data-store.png" align="right" width="50" style="padding-top: 10px;" /></a></p>
 <h1>Payment APIs</h1>
 <div style="padding-left: 10px; padding-right: 10px; width:550px;">
-     <ul id="companyListing" style="padding-left: 30px;"></ul>
+     <table id="companyListing" style="padding-left: 30px;"></table>
 </div>  
 
 <script type="text/javascript">
