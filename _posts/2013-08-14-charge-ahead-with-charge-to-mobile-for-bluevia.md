@@ -1,12 +1,0 @@
----
-layout: post
-title: Charge ahead with Charge to Mobile for BlueVia
-url: http://blog.bluevia.com/2013/08/14/charge-ahead-with-charge-to-mobile-for-bluevia/
-source: http://blog.bluevia.com/2013/08/14/charge-ahead-with-charge-to-mobile-for-bluevia/
-domain: blog.bluevia.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/blog-bluevia-com20130814charge-ahead-with-charge-to-mobile-for-bluevia.png
----
-
-<p>This week we have re launched the BlueVia portal to reflect the focus on the direct carrier billing or as we prefer to call it Charge to Mobile.We’ve been busy doing lots of partner implementations recently and now we’re telling the world, check out the new look and content.We haven’t completely forgotten our developer API roots, the old portal can still be found under the renamed BlueVia Labs, the place to test, develop and innovate.With the fantastic number of new client deals coming through using the BlueVia Charge to Mobile API, the website shows the benefits these clients are experiencing when they integrate: • Boost conversions rates – BlueVia is a quicker, easier alternative to credit cards.Customers like it so much, sales conversion can be up to 10 times higher than other payment methods for some goods.</p>
-<center><p><a href="http://blog.bluevia.com/2013/08/14/charge-ahead-with-charge-to-mobile-for-bluevia/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

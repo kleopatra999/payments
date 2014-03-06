@@ -1,12 +1,0 @@
----
-layout: post
-title: Announcing PhoneGap Library
-url: http://urbanairship.com/blog/2012/08/09/announcing-phonegap-library/
-source: http://urbanairship.com/blog/2012/08/09/announcing-phonegap-library/
-domain: urbanairship.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-
-<p>We are proud to announce the release of the Urban Airship PhoneGap library, which is available as of August 8, 2012.We are shipping the library with support for iOS and Android.This release wraps our existing libraries for both platforms, allowing users to easily embed Urban Airship in their applications.Wrapping our client libraries means that you can include push messaging, location history, and results reporting in your application using just a few lines of code.To make it easier for you to use the library, the same JavaScript API is available for both iOS and Android, so you can use the same JavaScript code on both platforms, with little or no changes.</p>
-<center><p><a href="http://urbanairship.com/blog/2012/08/09/announcing-phonegap-library/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

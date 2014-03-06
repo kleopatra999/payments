@@ -1,12 +1,0 @@
----
-layout: post
-title: Allowd: Solving a big problem for Dwolla merchants
-url: http://blog.dwolla.com/allowd/
-source: http://blog.dwolla.com/allowd/
-domain: blog.dwolla.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-
-<p>This is part of a series called “Integration Highlights“.In this series, we highlight entrepreneurs and projects that use Dwolla to create new experiences, ideas and possibilities.You can find this story and others on Dwolla’s Pinterest board.Enjoy!“Love the cost savings of Dwolla, but hesitant to share your login with employees?</p>
-<center><p><a href="http://blog.dwolla.com/allowd/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

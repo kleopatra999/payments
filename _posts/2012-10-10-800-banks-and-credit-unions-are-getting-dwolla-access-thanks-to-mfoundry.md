@@ -1,12 +1,0 @@
----
-layout: post
-title: 800+ banks and credit unions are getting Dwolla access thanks to mFoundry
-url: http://blog.dwolla.com/800-banks-and-credit-unions-are-getting-dwolla-access-thanks-to-mfoundry/
-source: http://blog.dwolla.com/800-banks-and-credit-unions-are-getting-dwolla-access-thanks-to-mfoundry/
-domain: blog.dwolla.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-
-<p>Something pretty big has happened.Dwolla has partnered with a mobile banking product that has 800+ bank and credit union clients.This isn’t just any mobile banking product, it’s mFoundry’s Fin.X, the company that built one of the most successful commercial mobile payments ventures to date, Starbucks Card Mobile.The company plans to unveil Fin.</p>
-<center><p><a href="http://blog.dwolla.com/800-banks-and-credit-unions-are-getting-dwolla-access-thanks-to-mfoundry/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

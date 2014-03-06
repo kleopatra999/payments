@@ -1,12 +1,0 @@
----
-layout: post
-title: Payment APIs That I Am Watching
-url: http://apievangelist.com/2014/02/26/payment-apis-that-i-am-watching/
-source: http://apievangelist.com/2014/02/26/payment-apis-that-i-am-watching/
-domain: apievangelist.com
-image: 
----
-
-<p></p>
-<center><p><a href="http://apievangelist.com/2014/02/26/payment-apis-that-i-am-watching/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

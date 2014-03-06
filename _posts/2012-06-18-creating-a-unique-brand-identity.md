@@ -1,12 +1,0 @@
----
-layout: post
-title: Creating A Unique Brand Identity
-url: http://www.invoicera.com/blog/invoice-software/creating-a-unique-brand-identity
-source: http://www.invoicera.com/blog/invoice-software/creating-a-unique-brand-identity
-domain: www.invoicera.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-
-<p>Having an extraordinary product is futile if you can not use it to your benefit.Your product or service must echo your goals, it must reiterate your core values and believes.In crux, positioning and creating a unique brand identity is equally if not more important like having a great/good product.Your brand identity is the combined effect of all the visual elements in your marketing strategy.From your website to your business card to a professional invoices, everything is responsible for creating an effective brand identity.</p>
-<center><p><a href="http://www.invoicera.com/blog/invoice-software/creating-a-unique-brand-identity" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

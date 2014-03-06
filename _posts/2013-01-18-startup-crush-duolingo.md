@@ -1,12 +1,0 @@
----
-layout: post
-title: Startup Crush: Duolingo
-url: http://blog.dwolla.com/startup-crush-duolingo/
-source: http://blog.dwolla.com/startup-crush-duolingo/
-domain: blog.dwolla.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-
-<p>Working at Dwolla provides some great perks.Seeing new acquaintances and old friends launch great projects are two of our favorites.In this series we share the stories of people, startups and ideas that are bringing beautiful products, simple services or improved processes to life.We can’t help it, we have startup crushes.Duolingo is an online language learning program that helps you learn alongside your friends while also contributing to the translation of real-world content from the Web.</p>
-<center><p><a href="http://blog.dwolla.com/startup-crush-duolingo/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
