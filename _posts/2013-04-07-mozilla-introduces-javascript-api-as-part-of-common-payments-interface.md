@@ -6,6 +6,7 @@ source: http://www.infoworld.com/d/application-development/mozilla-introduces-ja
 domain: www.infoworld.com
 image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7287_www_infoworld_com.png
 ---
-{% include JB/setup %}<p>Mozilla plans to introduce a common API (application programming interface) to make online payments easy and secure on Firefox OS devices.As a first step, Mozilla will introduce navigator.mozPay in Firefox OS so that Web apps can accept payments, said Kumar McMillan, who works on Firefox OS and the Firefox Marketplace, in a blog post on Thursday.[ Discover whats new in business applications with InfoWorlds Technology: Applications newsletter.|</p>
+
+<p>Mozilla plans to introduce a common API (application programming interface) to make online payments easy and secure on Firefox OS devices.As a first step, Mozilla will introduce navigator.mozPay in Firefox OS so that Web apps can accept payments, said Kumar McMillan, who works on Firefox OS and the Firefox Marketplace, in a blog post on Thursday.[ Discover whats new in business applications with InfoWorlds Technology: Applications newsletter.|</p>
 <center><p><a href="http://www.infoworld.com/d/application-development/mozilla-introduces-javascript-api-part-of-common-payments-interface-215892" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

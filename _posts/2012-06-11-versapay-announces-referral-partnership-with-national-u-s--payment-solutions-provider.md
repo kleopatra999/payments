@@ -1,0 +1,12 @@
+---
+layout: post
+title: VersaPay Announces Referral Partnership With National U S  Payment Solutions Provider
+url: http://www.versapay.com/press-releases/versapay-announces-referral-partnership-with-national-us-payment-solutions-provide/
+source: http://www.versapay.com/press-releases/versapay-announces-referral-partnership-with-national-us-payment-solutions-provide/
+domain: www.versapay.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+---
+
+<p>Toronto, ON – June 11, 2012– VersaPay Corporation (TSX VENTURE:VPY) (“VersaPay” or the “Company”), a leading provider of Electronic Invoice Presentment and Payment (“EIPP”) solutions today announced that its wholly owned U.S.subsidiary VersaPay Payment Technology Solutions, Inc.has entered into a Reseller Agreement with Century Payments, Inc., a national U.</p>
+<center><p><a href="http://www.versapay.com/press-releases/versapay-announces-referral-partnership-with-national-us-payment-solutions-provide/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

@@ -6,6 +6,7 @@ source: http://techcrunch.com/2013/04/05/moonclerk-allows-non-programmers-to-use
 domain: techcrunch.com
 image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7251_techcrunch_com.png
 ---
-{% include JB/setup %}<p>Sarah currently works as a writer for TechCrunch, after having previously spent over three years at ReadWriteWeb.Prior to becoming a professional blogger, Sarah worked in I.T.across a number of industries, including banking, retail and software.→ Learn More</p>
+
+<p>Sarah currently works as a writer for TechCrunch, after having previously spent over three years at ReadWriteWeb.Prior to becoming a professional blogger, Sarah worked in I.T.across a number of industries, including banking, retail and software.→ Learn More</p>
 <center><p><a href="http://techcrunch.com/2013/04/05/moonclerk-allows-non-programmers-to-use-stripe-for-one-time-or-recurring-payments/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

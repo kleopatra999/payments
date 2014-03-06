@@ -4,8 +4,9 @@ title: Openings New Hires at CityGrid Google Wallet Groupon and more…
 url: http://streetfightmag.com/2013/05/10/movers-and-shakers-openings-new-hires-at-citygrid-google-wallet-groupon-swipely-and-more/
 source: http://streetfightmag.com/2013/05/10/movers-and-shakers-openings-new-hires-at-citygrid-google-wallet-groupon-swipely-and-more/
 domain: streetfightmag.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/8527_streetfightmag_com.png
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/streetfightmag-com20130510movers-and-shakers-openings-new-hires-at-citygrid-google-wallet-groupon-swipely-and-more.png
 ---
-{% include JB/setup %}<p>STREET FIGHT SUMMIT WEST 2013 returns to San Francisco on June 4.Find out whos coming and whats on the agenda.Buy your ticket today!</p>
+
+<p>STREET FIGHT SUMMIT WEST 2013 returns to San Francisco on June 4.Find out whos coming and whats on the agenda.Buy your ticket today!</p>
 <center><p><a href="http://streetfightmag.com/2013/05/10/movers-and-shakers-openings-new-hires-at-citygrid-google-wallet-groupon-swipely-and-more/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

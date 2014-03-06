@@ -6,6 +6,7 @@ source: http://blog.programmableweb.com/2013/03/25/payzang-launches-payment-proc
 domain: blog.programmableweb.com
 image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7110_feedproxy_google_com.png
 ---
-{% include JB/setup %}<p>PayZang, payment processing provider, has introduced a new payment API.The API allows merchants to integrate payment options with third party applications and platforms.PayZang hopes to attract new customers with the API because integration will speed up online shopping and bill pay experiences.In a press release, PayZang commented: PayZang has attracted thousands of customers that span across size and industry through its simple, secure, and reliable payment processing platform.Users enjoy PayZang’s flexibility because PayZang processes multiple payment types (ACH, card, etc.</p>
+
+<p>PayZang, payment processing provider, has introduced a new payment API.The API allows merchants to integrate payment options with third party applications and platforms.PayZang hopes to attract new customers with the API because integration will speed up online shopping and bill pay experiences.In a press release, PayZang commented: PayZang has attracted thousands of customers that span across size and industry through its simple, secure, and reliable payment processing platform.Users enjoy PayZang’s flexibility because PayZang processes multiple payment types (ACH, card, etc.</p>
 <center><p><a href="http://blog.programmableweb.com/2013/03/25/payzang-launches-payment-processing-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

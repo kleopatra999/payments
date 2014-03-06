@@ -6,6 +6,7 @@ source: http://gigaom.com/2013/03/08/paypal-revamps-developer-program-with-new-i
 domain: gigaom.com
 image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
 ---
-{% include JB/setup %}<p>PayPal readily admits it hasn’t been the most developer-friendly company, but the online payments giant claims it is now ready to start actively courting the developer with a bevy of new tools it is launching at SXSWi.First off, it’s launching a new iOS software developer’s kit (SDK), which allows app makers to code PayPal’s payment processing tools directly into their apps, instead of opening up a PayPal authorization and payments page.PayPal devs can also embed credit card scanning software from Card.io, which PayPal bought last summer.While it’s starting with iOS, PayPal said it would expand to other mobile platforms “soon.</p>
+
+<p>PayPal readily admits it hasn’t been the most developer-friendly company, but the online payments giant claims it is now ready to start actively courting the developer with a bevy of new tools it is launching at SXSWi.First off, it’s launching a new iOS software developer’s kit (SDK), which allows app makers to code PayPal’s payment processing tools directly into their apps, instead of opening up a PayPal authorization and payments page.PayPal devs can also embed credit card scanning software from Card.io, which PayPal bought last summer.While it’s starting with iOS, PayPal said it would expand to other mobile platforms “soon.</p>
 <center><p><a href="http://gigaom.com/2013/03/08/paypal-revamps-developer-program-with-new-ios-sdk-retooled-apis/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 
