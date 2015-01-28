@@ -1,0 +1,66 @@
+{
+	"name": "Mailjet",
+	"description": "<p>Mailjet is an all-in-one solution to send, track and deliver both marketing and transactional emails, providing infrastructure for scaling and optimizing email deliverability. Mailjet can be accessed either via an easy-to-use online drag-and-drop interface or via APIs that allow developers to integrate the ability to send, receive, store emails, and track on delivery, organize and track on operations. Mailjet provides a free trial for developers, and then tiered, unit based pricing for API services after that.</p>",
+	"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/843_logo.jpg",
+	"tags": ["Advertising",
+	"Campaign",
+	"Cloud",
+	"Email",
+	"Email API",
+	"Marketing",
+	"Metrics",
+	"Stack"],
+	"created": "2015-01-27",
+	"modified": "2015-01-27",
+	"url": "http://email.apievangelist.com/data/mailjet/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [{
+		"name": "Mailjet Messages API",
+		"description": "Mailjet is a real-time Cloud Emailing platform: scalable, agile and flexible! Our unique algorithm boosts your deliverability and our platform provides in-depth insight so you can optimize more than ever. Because 20% of emails never reach the inbox Mailjet is a logical choice! Communication to and from our API is done through HTTP(S) GET and POST queries. We support different formats to choose from depending on your affinities : JSON, XML, serialized PHP, and CSV for some export functions. You can access our API from almost any programming language, and in just a few minutes with our plug and play libraries.n",
+		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/843_logo.jpg",
+		"humanURL": "http://dev.mailjet.com/email-api/v3/message/",
+		"baseURL": "https:/api.mailjet.com/v3/REST/",
+		"tags": ["Advertising",
+		"Campaign",
+		"Cloud",
+		"Email",
+		"Email API",
+		"Marketing",
+		"Metrics"],
+		"properties": [{
+			"type": "X-twitter",
+			"url": "https://twitter.com/mailjet"
+		},
+		{
+			"type": "X-blog",
+			"url": "http://blog.mailjet.com/"
+		},
+		{
+			"type": "X-blogrss",
+			"url": "http://blog.mailjet.com/rss"
+		},
+		{
+			"type": "X-github",
+			"url": "https://github.com/mailjet"
+		},
+		{
+			"type": "X-developer-portal",
+			"url": "http://dev.mailjet.com/"
+		},
+		{
+			"type": "Swagger",
+			"url": "http://email.apievangelist.com/data/mailjet/mailjet-messages-api.json"
+		}],
+		"contact": [{
+			"FN": "API Evangliest",
+			"email": "info@apievangelist.com",
+			"X-twitter": "apievangelist"
+		}]
+	}],
+	"includes": [],
+	"maintainers": [{
+		"FN": "Kin",
+		"X-twitter": "apievangelist",
+		"email": "kin@email.com"
+	}]
+}

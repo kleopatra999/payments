@@ -1,0 +1,34 @@
+{
+	"swagger": 2,
+	"info": {
+		"title": "Inbox API",
+		"description": "Inbox is a modern API that works with existing email providers. It makes it easy to integrate with your usersu2019 email data, and eliminates the complexity of old protocols like IMAP and MIME.",
+		"termsOfService": null,
+		"version": null
+	},
+	"host": "api.inboxapp.com",
+	"basePath": "n/{namespace_id}/",
+	"schemes": [
+		"http"
+	],
+	"produces": [
+		"application/json"
+	],
+	"paths": {
+		"send/": {
+			"get": {
+				"summary": "Sending",
+				"description": "Sending",
+				"operationId": "",
+				"parameters": [
+				],
+				"tags": [
+					"Messaging",
+					" Email"
+				]
+			}
+		}
+	},
+	"definitions": [
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"name": "Inbox",
+	"description": "<p>Inbox provides modern RESTful APIs for working with multiple email providers, delivering email API aggregation services.&nbsp;Stop fighting the old protocols and focus on building great apps. Inbox provides APIs for sending, receiving, and storing email messages, including tagging, list management, and email sync tools. Inbox uses a pay as you go, tiered monetization strategy, allowing developers to pay for what they need as they grow their applications.</p>",
+	"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/inbox-app-logo.png",
+	"tags": ["API Aggregation",
+	"Email",
+	"Email API",
+	"Messaging"],
+	"created": "2015-01-27",
+	"modified": "2015-01-27",
+	"url": "http://email.apievangelist.com/data/inbox/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [{
+		"name": "Inbox API",
+		"description": "",
+		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/inbox-app-logo.png",
+		"humanURL": "https://www.inboxapp.com/docs/api",
+		"baseURL": "http:/api.inboxapp.com/n/{namespace_id}/",
+		"tags": ["Email",
+		"Email API"],
+		"properties": [{
+			"type": "X-twitter",
+			"url": "https://twitter.com/inboxapp"
+		},
+		{
+			"type": "X-blog",
+			"url": "https://www.inboxapp.com/blog"
+		},
+		{
+			"type": "X-blogrss",
+			"url": "https://www.inboxapp.com/blog/feed.atom"
+		},
+		{
+			"type": "X-github",
+			"url": "https://github.com/inboxapp"
+		},
+		{
+			"type": "Swagger",
+			"url": "http://email.apievangelist.com/data/inbox/inbox-api.json"
+		}],
+		"contact": [{
+			"FN": "API Evangliest",
+			"email": "info@apievangelist.com",
+			"X-twitter": "apievangelist"
+		}]
+	}],
+	"includes": [],
+	"maintainers": [{
+		"FN": "Kin",
+		"X-twitter": "apievangelist",
+		"email": "kin@email.com"
+	}]
+}

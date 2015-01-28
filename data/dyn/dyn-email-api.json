@@ -1,0 +1,69 @@
+{
+	"swagger": 2,
+	"info": {
+		"title": "DynDNS Email API",
+		"description": "We are pleased to offer a comprehensive Application Programming Interface (API) for Dyn Email Delivery and Email Delivery Express.",
+		"termsOfService": null,
+		"version": null
+	},
+	"host": "emailapi.dynect.net",
+	"basePath": "rest/RETURN-TYPE/",
+	"schemes": [
+		"http"
+	],
+	"produces": [
+		"application/json"
+	],
+	"paths": {
+		"reports/sent/count": {
+			"get": {
+				"summary": "Retrieve Count of Emails Sent",
+				"description": "Retrieve Count of Emails Sent",
+				"operationId": "",
+				"parameters": [
+					{
+						"name": "apikey",
+						"in": "query",
+						"description": "Required. API key of the account with the desired information.",
+						"required": false,
+						"type": "string"
+					},
+					{
+						"name": "starttime",
+						"in": "query",
+						"description": "Required. Start date/time range in full, ISO 8601 format",
+						"required": false,
+						"type": "string"
+					},
+					{
+						"name": "endtime",
+						"in": "query",
+						"description": "Required. End date/time range in full, ISO 8601 format",
+						"required": false,
+						"type": "string"
+					},
+					{
+						"name": "sender",
+						"in": "query",
+						"description": "Email address of sender for filtering.",
+						"required": false,
+						"type": "string"
+					},
+					{
+						"name": "[X-HeaderName]",
+						"in": "query",
+						"description": "Name of searchable custom X-header. X-header names are in the format X-[name of header]. X-header values are the search parameter to find in the X-header field. Be sure to url-encode the search value.",
+						"required": false,
+						"type": "string"
+					}
+				],
+				"tags": [
+					"Messaging",
+					" Email"
+				]
+			}
+		}
+	},
+	"definitions": [
+	]
+}

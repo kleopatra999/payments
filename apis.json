@@ -1,0 +1,45 @@
+{
+	"name": "SMS API Stack",
+	"description": "This is a collection of APIs that are curated by the API Evangelist, as part of monitoring of the larger API space.",
+	"image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png",
+	"tags": [["APIs"],
+	["Application Programming Interfaces"]],
+	"created": "2015-01-27",
+	"modified": "2015-01-27",
+	"url": "http://email.apievangelist.com/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [],
+	"includes": [{
+		"name": "Context.IO",
+		"url": "http://email.apievangelist.com/data/contextio/apis.json"
+	},
+	{
+		"name": "Dyn",
+		"url": "http://email.apievangelist.com/data/dyn/apis.json"
+	},
+	{
+		"name": "Elastic Email",
+		"url": "http://email.apievangelist.com/data/elastic-email/apis.json"
+	},
+	{
+		"name": "Inbox",
+		"url": "http://email.apievangelist.com/data/inbox/apis.json"
+	},
+	{
+		"name": "Mailgun",
+		"url": "http://email.apievangelist.com/data/mailgun/apis.json"
+	},
+	{
+		"name": "Mailjet",
+		"url": "http://email.apievangelist.com/data/mailjet/apis.json"
+	},
+	{
+		"name": "SendGrid",
+		"url": "http://email.apievangelist.com/data/sendgrid/apis.json"
+	}],
+	"maintainers": [{
+		"FN": "Kin",
+		"X-twitter": "apievangelist",
+		"email": "kin@email.com"
+	}]
+}

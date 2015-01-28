@@ -1,12 +1,0 @@
----
-layout: post
-title: Google Checkout Closing Down Alternative Payment Gateways to Use With Your Wufoo Form
-url: http://www.wufoo.com/2013/11/15/google-checkout-closing-down-alternative-payment-gateways-to-use-with-your-wufoo-form/
-source: http://www.wufoo.com/2013/11/15/google-checkout-closing-down-alternative-payment-gateways-to-use-with-your-wufoo-form/
-domain: www.wufoo.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/www-wufoo-com20131115google-checkout-closing-down-alternative-payment-gateways-to-use-with-your-wufoo-form.png
----
-
-<p>By Andrew Gosnell · November 15th, 2013 This is a warning to anyone who is still using Google Checkout as the payment gateway for your Wufoo form!As they previously announced, Google will be closing down the Google Checkout payment gateway.After Wednesday, November 20th, you’ll no longer be able to accept payments through your Wufoo form into your Google Checkout account.Before that happens, you’ll want to switch over any of your forms that are currently using Google Checkout, and connect them to one of our other great payment gateway options.Here are a few of our suggestions: If you’re in the United States, we recommend Stripe.</p>
-<center><p><a href="http://www.wufoo.com/2013/11/15/google-checkout-closing-down-alternative-payment-gateways-to-use-with-your-wufoo-form/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

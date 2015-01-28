@@ -1,0 +1,53 @@
+{
+	"name": "Context.IO",
+	"description": "<p>Context.IO, a Return Path company working to innovate on email conversations, collaboration and document exchange. Context.IO provides email APIs that makes it easy for application developers to retrieve information about emails and leverage it in applications. Context.IO provides a free access tier, as well as pay as you go pricing tiers for developers to use beyond that.&nbsp;</p>",
+	"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/172_logo.png",
+	"tags": ["Email",
+	"Email API",
+	"Stack"],
+	"created": "2015-01-27",
+	"modified": "2015-01-27",
+	"url": "http://email.apievangelist.com/data/contextio/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [{
+		"name": "Context.IO Email API",
+		"description": "Context.IO is the missing email API that makes it easy and fastnto integrate your user's email data in your application.",
+		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/172_logo.png",
+		"humanURL": "http://context.io/docs/2.0",
+		"baseURL": "https:/api.context.io/2.0/accounts/{id}/",
+		"tags": ["Email",
+		"Email API",
+		"Sbweb"],
+		"properties": [{
+			"type": "X-twitter",
+			"url": "https://twitter.com/contextio"
+		},
+		{
+			"type": "X-blog",
+			"url": "http://blog.context.io/"
+		},
+		{
+			"type": "X-blogrss",
+			"url": "http://blog.context.io/feed/"
+		},
+		{
+			"type": "X-github",
+			"url": "https://github.com/contextio"
+		},
+		{
+			"type": "Swagger",
+			"url": "http://email.apievangelist.com/data/contextio/contextio-email-api.json"
+		}],
+		"contact": [{
+			"FN": "API Evangliest",
+			"email": "info@apievangelist.com",
+			"X-twitter": "apievangelist"
+		}]
+	}],
+	"includes": [],
+	"maintainers": [{
+		"FN": "Kin",
+		"X-twitter": "apievangelist",
+		"email": "kin@email.com"
+	}]
+}

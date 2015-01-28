@@ -1,23 +1,26 @@
-title : Payments
-
-safe: true
-lsi: false
-pygments: true
-auto: true
-
-source: payments
-destination: payments
+title:        {"Payment"}
+url:          http://payment.apievangelist.com
+version:      1.1.1
+author:
+  name:       'Kin Lane'
+  payment:      'info@apievangelist.com'
+markdown:     rdiscount
+permalink:    pretty
+pygments:     true
 
 permalink: /:categories/:year/:month/:day/:title 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 
-paginate: 10
-paginate_path: "/blog/page:num"
+paginate: 50
+paginate_path: "/news/page:num"
 
-production_url : http://payments.apievangelist.com
+production_url : http://payment.apievangelist.com
 
-BASE_PATH : http://payments.apievangelist.com
+BASE_PATH : http://payment.apievangelist.com
 
-archive_path: /archive.html
 categories_path : /categories.html
 tags_path : /tags.html
+
+oauthio : I_TRiPFUBHSp-3DxS5RjS9ub8sg
+org : kinlane
+repo : payment

@@ -1,0 +1,49 @@
+{
+	"name": "Elastic Email",
+	"description": "<p>Elastic Email is an email delivery service for transactional and marketing email, operated by Geographical Media Inc, operating across United States and European data centers. Elastic Email provides services for sending, receiving, and storage of emails, with other supporting delivery, organization, and real-time tools, which includes APIs for managing metrics and account information. There is a free trial, with pay as you go, unit based pricing which includes multiple access tiers.</p>",
+	"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/586_logo.png",
+	"tags": ["Cloud",
+	"Email",
+	"Email API",
+	"Stack"],
+	"created": "2015-01-27",
+	"modified": "2015-01-27",
+	"url": "http://email.apievangelist.com/data/elastic-email/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [{
+		"name": "Elastic Email SMTP API",
+		"description": "Elastic Email is a simple, fast email delivery service for your cloud application or marketing needs.  Elastic Email is designed as an SMTP relay for reliable delivery of bulk email marketing or single recipient transactional emails with detailed delivery statistics.  No monthly committments, no minimums, no limits.  Just pay for what you use for as low as  $0.08 / 1000 emails.  ",
+		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/586_logo.png",
+		"humanURL": "https://elasticemail.com/api-documentation",
+		"baseURL": "http:/api.elasticemail.com/",
+		"tags": ["Email",
+		"Email API"],
+		"properties": [{
+			"type": "X-twitter",
+			"url": "https://twitter.com/elastic_email"
+		},
+		{
+			"type": "X-blog",
+			"url": "http://elasticemail.com/blog"
+		},
+		{
+			"type": "X-blogrss",
+			"url": "http://elasticemail.com/posts/rss/xml"
+		},
+		{
+			"type": "Swagger",
+			"url": "http://email.apievangelist.com/data/elastic-email/elastic-email-smtp-api.json"
+		}],
+		"contact": [{
+			"FN": "API Evangliest",
+			"email": "info@apievangelist.com",
+			"X-twitter": "apievangelist"
+		}]
+	}],
+	"includes": [],
+	"maintainers": [{
+		"FN": "Kin",
+		"X-twitter": "apievangelist",
+		"email": "kin@email.com"
+	}]
+}

@@ -1,0 +1,34 @@
+{
+	"swagger": 2,
+	"info": {
+		"title": "Mailjet Messages API",
+		"description": "Allows you to list and view the details of a Message (an e-mail) processed by Mailjet",
+		"termsOfService": null,
+		"version": "v3"
+	},
+	"host": "api.mailjet.com",
+	"basePath": "v3/REST/",
+	"schemes": [
+		"http"
+	],
+	"produces": [
+		"application/json"
+	],
+	"paths": {
+		"messagestatistics/{id}": {
+			"get": {
+				"summary": "Message Statistics",
+				"description": "Message Statistics",
+				"operationId": "",
+				"parameters": [
+				],
+				"tags": [
+					"Messaging",
+					" Email"
+				]
+			}
+		}
+	},
+	"definitions": [
+	]
+}
