@@ -1,0 +1,61 @@
+{
+	"name": "PayPal",
+	"description": "<p>PayPal is an online payments and money transfer service that allows you to send money via email, phone, text message or Skype. They offer products to both individuals and businesses alike, including online vendors, auction sites and corporate users. PayPal connects effortlessly to bank accounts and credit cards.</p>",
+	"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/237_logo.png",
+	"tags": ["Accounting",
+	"Analytics",
+	"Billing",
+	"Currency",
+	"Hypermedia-API",
+	"International",
+	"Invoice",
+	"Merchant",
+	"Payment-API",
+	"Payments",
+	"Stack"],
+	"created": "2015-01-28",
+	"modified": "2015-01-28",
+	"url": "http://payments.apievangelist.com/data/paypal/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [{
+		"name": "PayPal",
+		"description": "Our REST APIs provide a simple, powerful way to invoke PayPal services, letting you accept payment from a credit card or PayPal account, implement a secure login, and more.",
+		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/237_logo.png",
+		"humanURL": "https://www.paypal.com/",
+		"baseURL": "https:/svcs.sandbox.paypal.com/",
+		"tags": ["Currency",
+		"Finance",
+		"Invoice",
+		"Invoicing",
+		"Payments",
+		"Transaction",
+		"Webhooks"],
+		"properties": [{
+			"type": "X-twitter",
+			"url": "https://twitter.com/paypal"
+		},
+		{
+			"type": "X-github",
+			"url": "https://github.com/paypal"
+		},
+		{
+			"type": "X-developer-portal",
+			"url": "https://developer.paypal.com/"
+		},
+		{
+			"type": "Swagger",
+			"url": "http://payments.apievangelist.com/data/paypal/paypal.json"
+		}],
+		"contact": [{
+			"FN": "API Evangliest",
+			"email": "info@apievangelist.com",
+			"X-twitter": "apievangelist"
+		}]
+	}],
+	"includes": [],
+	"maintainers": [{
+		"FN": "Kin",
+		"X-twitter": "apievangelist",
+		"email": "kin@email.com"
+	}]
+}
