@@ -59,7 +59,7 @@ title: Payment API - Building Blocks
 	            });
             
 		var repo = github.getRepo('{{ site.org }}', '{{ site.repo }}');
-  
+  		console.log('{{ site.org }} {{ site.repo }}');
 		repo.read('master','data/buildingblockcategories.json',function(err, data){    
 	
 		//console.log(data);    
