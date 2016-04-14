@@ -367,6 +367,22 @@
 	"apis": []
 },
 {
+	"id": "09123CdezD8DQJ1mfzQeHNwe123Ku7c1KmFgPEbRMApQFcU117",
+	"name": "PayPal",
+	"summary": "PayPal is an online payments and money transfer service that allows you to send money via email, phone, text message or Skype. They offer products to both individuals and businesses alike, including online vendors, auction sites and corporate users. PayPal connects effortlessly to bank accounts and credit cards.",
+	"details": "PayPal is an online payments and money transfer service that allows you to send money via email, phone, text message or Skype. They offer products to both individuals and businesses alike, including online vendors, auction sites and corporate users. PayPal connects effortlessly to bank accounts and credit cards.",
+	"website": "https://paypal.com",
+	"twitter": "https://twitter.com/paypal",
+	"github": "https://github.com/paypal",
+	"blog": "",
+	"blogrss": "",
+	"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/237_logo.png",
+	"logo_width": "200",
+	"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/237_logo.png",
+	"tags": "Billing,Currency,Hypermedia,Indie EdTech Data Jam,International,Invoice,Merchant,Payment API,Payment-API,Payments",
+	"apis": []
+},
+{
 	"id": "gEV139kNZ31h6kEHNKtTDlrc5bdw5TrgE0974bMqVF8117",
 	"name": "Payscape",
 	"summary": "Payscape Advisors provides small to mid-size business owners with financial technologies that allow them to accept payments, streamline their business, and increase cash flow. Our dedication to payment technology and industry innovation is consistent; our mission is clear: to make it simple for business owners to collect money. Whether you accept credit cards at your retail storefront, process pay",
