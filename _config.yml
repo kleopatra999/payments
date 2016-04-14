@@ -34,7 +34,7 @@ feature_image_width: 50
 
 # Project
 project_image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-payments.png
-project_summary: Research into payments APIs.
+project_summary: This is my research into payment APIs, where I will collect the best payment API providers, tooling, and other aspects of the payment space. I'll publish everything here, and use across my research when I'm referencing payment APIs.
 
 # Navigation
 navigation:
